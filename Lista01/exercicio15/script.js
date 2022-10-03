@@ -7,5 +7,5 @@ const vendas = parseInt(prompt("Digite quantos voce fez em vendas"));
 const resulVendas = vendas * 0.04;
 const valorFinal = resulVendas + salario;
 
-console.log("Voce vai receber de vendas " + resulVendas)
-console.log("Voce vai receber no total: " + valorFinal)
+console.log("Voce vai receber de vendas " + resulVendas);
+console.log("Voce vai receber no total: " + valorFinal);

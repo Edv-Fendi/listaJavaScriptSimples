@@ -5,7 +5,9 @@
 const nota1 = parseFloat(prompt("Digite a primeira nota: "));
 const nota2 = parseFloat(prompt("Digite a segunda nota: "));
 
-const result = (nota1 * 2) + (nota2 * 3) / 5
+const somaNota = (nota1 * 2) + (nota2 * 3);
+const result = somaNota / 2;
+
 
 
 console.log(nota1)
